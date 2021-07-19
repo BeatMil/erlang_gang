@@ -1,0 +1,9 @@
+[submodule "day5/hello_erlang/deps/cowboy"]
+	path = day5/hello_erlang/deps/cowboy
+	url = https://github.com/ninenines/cowboy
+[submodule "day5/hello_erlang/deps/cowlib"]
+	path = day5/hello_erlang/deps/cowlib
+	url = https://github.com/ninenines/cowlib
+[submodule "day5/hello_erlang/deps/ranch"]
+	path = day5/hello_erlang/deps/ranch
+	url = https://github.com/ninenines/ranch
