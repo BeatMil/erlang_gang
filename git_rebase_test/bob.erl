@@ -4,11 +4,3 @@
 start() ->
     done.
 
-
-beat() ->
-    beat.
-
-
-jero() ->
-    jero.
-
