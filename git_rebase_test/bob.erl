@@ -5,3 +5,6 @@ start() ->
     done.
 
 
+beat() ->
+    beat.
+
