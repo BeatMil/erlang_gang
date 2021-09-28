@@ -3,3 +3,6 @@
 
 start() ->
     done.
+
+beat() ->
+    mynameisbeat.
