@@ -4,5 +4,10 @@
 start() ->
     done.
 
+
 beat() ->
     mynameisbeat.
+
+
+jero() ->
+    jerodesu.
