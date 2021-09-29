@@ -4,3 +4,6 @@
 start() ->
     done.
 
+
+something() ->
+    done.
